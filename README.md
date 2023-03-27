@@ -46,3 +46,7 @@ n+1/2 if n is an odd number. For 10 Fornacis if you want to make the most score 
   We will distribute 333 of Fornacis NFT to the top 11 of every week this means ant the remaining supply, after the 30 week 
 As you understand it is so hard to draw a issuance schedule for Fornacis. We can only imagine when the stages are done but after the 6666 supply there
 will be no NFT or Golden Ticket distribution.
+
+# About Code
+
+This is a Demo Script as an MVP. The original script will be integrated to Google Firebase, wont need to use sqlite3. Metadata will be stored at AWS.
